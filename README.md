@@ -10,7 +10,7 @@
 
 
 ## 🚀 **Sobre**
-Esta é uma aplicação feita em NodeJS, que permite criarmos e lsitarmos transações.
+Esta é uma aplicação feita em NodeJS, que permite criarmos e listarmos transações.
 
 Para sua construção utilizamos o conceito de Repositories e Services para retirar do arquivo de routes, a responsabilidade de tratar com as regras de negócio e a comunicação com os dados.
 
